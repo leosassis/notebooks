@@ -1,3 +1,2 @@
 # notebooks
-
-I like to use notebooks to do quick tests and experiments with python and pyomo.  
+Here, you will find some notebooks that I use to do quick tests and experiments with python and pyomo.  
